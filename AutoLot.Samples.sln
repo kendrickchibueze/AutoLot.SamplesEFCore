@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLot.Samples", "AutoLot.Samples\AutoLot.Samples.csproj", "{7EA877C1-759D-4271-A8E6-D32C3184A903}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLot.SamplesDAL", "AutoLot.SamplesDAL\AutoLot.SamplesDAL.csproj", "{10C924DD-ADEC-48B3-9BC4-9208664D07AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EA877C1-759D-4271-A8E6-D32C3184A903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EA877C1-759D-4271-A8E6-D32C3184A903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EA877C1-759D-4271-A8E6-D32C3184A903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EA877C1-759D-4271-A8E6-D32C3184A903}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10C924DD-ADEC-48B3-9BC4-9208664D07AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C924DD-ADEC-48B3-9BC4-9208664D07AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C924DD-ADEC-48B3-9BC4-9208664D07AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C924DD-ADEC-48B3-9BC4-9208664D07AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED543519-1684-4668-9245-AF0B626E0631}
+	EndGlobalSection
+EndGlobal
